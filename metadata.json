@@ -1,0 +1,8 @@
+{
+  "name": "Eldritch Echoes: Lobby System",
+  "description": "A high-fidelity horror game UI featuring a start menu, server browser, and robust party management system with leader controls.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
